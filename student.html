@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #question{
+        backdrop-filter:blur(5px);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color: rgb(6, 6, 45);
+    }
+</style>
+<body>
+    <h1 id="question">question goes here</h1>
+    <form action="/student">
+        <input type="radio" name="input" value="1">
+        <input type="radio" name="input" value="2">
+        <input type="radio" name="input" value="3">
+        <input type="radio" name="input" value="4">
+        <input type="radio" name="input" value="5">
+    </form>
+    <button id="btn" value="click" placeholder="click me"></button>
+    <script src="/quizstudent.js" type="module"></script>
+</body>
+</html>
