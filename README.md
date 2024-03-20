@@ -1,4 +1,12 @@
 # PersonaScan-Personality_Test
+Demo Of the Project
+
+
+https://github.com/VanshikaaGuptaa/PersonaScan-Personality_Test/assets/127149997/f1697a95-87dc-47f1-92a4-06d23f73740d
+
+
+
+
 How to Run
 1. Clone the repository
 2. Run "npm i" on terminal.
